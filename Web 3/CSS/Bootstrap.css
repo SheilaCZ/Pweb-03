@@ -29,5 +29,16 @@
     margin-bottom: 20px;
   }
 
-  /* Tercera ventana */
-  
+  .Barra
+  {
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    background-color: darkred;
+    color: white;
+  }
+  .navbar-brand
+  {
+    color: white;
+
+  }
