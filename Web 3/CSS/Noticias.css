@@ -1,0 +1,163 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:#fff2ea!important;
+    height: 100vh;
+}
+header
+{
+    width: 100%;
+    height: 50px;
+    background-color:#fec4b1;
+    margin: 0;
+    padding: 0;
+}
+h1
+{
+    position: absolute;
+    padding: 3px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1px;
+    margin-bottom: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e45a00;
+
+}
+ul
+{
+    width: auto;
+    float: left;
+    margin-left: 200px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+li
+{
+    display: inline-block;
+    padding: 10px 30px;
+}
+a
+{
+    text-align: center;
+    color:#e45a00;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+a:hover
+{
+    color:white;
+}
+input
+{
+    width: auto;
+    float: right;
+    margin-top: 15px;
+    margin-right:20px;
+    border: none ;
+    height: 20px;
+    background: transparent;
+    border-bottom: 1px solid black;
+
+}
+input[type = "submit"]
+{
+    border: none ;
+    border-bottom: none;
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: rgb(214, 146, 18);
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.Apartado-Titulo
+{
+    position: absolute;
+    background:transparent;
+    width: 1000px;
+    height: 150px;
+    margin-left: 10px;
+
+}
+.Fecha
+{
+    margin-top: 150px; 
+    position:absolute;
+    background: transparent;
+    width: 1000px;
+    height:80px;
+}
+h1.Titulo
+{
+    
+    padding-top: 20px;
+    padding-left:0;
+    color: black;
+    font-size: 40px;
+}
+.Imagen
+{
+    margin-top: 220px;
+    margin-left: 10px;
+    background: rgb(187, 125, 125);
+    width: 1000px;
+    height: 500px;
+}
+.Texto
+{
+
+  
+    margin-left: 10px;
+    background: rgb(248, 217, 217);
+    width: 1000px;
+    height: 800px;
+
+
+}
+h6
+{
+   margin: 0;
+   padding: 10px;
+   font-size: 16px;
+}
+
+.foto
+{
+    width: 1000px;
+    height: 500px;
+}
+p
+{
+    font-style: italic;
+    margin: 0;
+    padding: 30px;
+}
+.Caja-Noticias
+{
+    float: right;
+    background:transparent;
+    width: 480px;
+    height: 700px;
+    margin-top: 10px;
+    margin-right: 20px;
+
+  
+}
+h3.Noticias
+{
+    padding: 15px;
+    font-size: 40px;
+    padding-bottom: none;
+
+}
+h2.Numero
+{
+    padding: 15px;
+    padding-top: 50px;
+    font-size: 50px;
+}
